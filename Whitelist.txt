@@ -936,6 +936,7 @@
 *.yunjiasu-cdn.net
 *.yunpian.com
 *.yunshipei.com
+*.yunzhijia.com
 *.yuque.com
 *.yuwantech.com
 *.yxt.com
