@@ -912,6 +912,7 @@
 *.xxsy.net
 *.xycdn.com
 *.xywy.com
+*.xwedc.com
 *.yamibo.com
 *.yaohuo.me
 *.yd-jxt.com
