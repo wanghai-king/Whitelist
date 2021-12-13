@@ -1,4 +1,5 @@
 *.google.com
+*.google.com.hk
 *.twitter.com
 *.facebook.com
 *.youtube.com
