@@ -12,3 +12,6 @@
 *.google.com
 *.googleusercontent.com
 *.youtube.com
+*.saberfeedback.com
+*.cloudflare.com
+*.mudvod.tv
