@@ -27,11 +27,11 @@
 *kerbalspaceprogram.*
 *macromicro.*
 *mediafire.*
-*microsoft.*
 *mudvod.*
 *nbys1.*
 *nbyy.*
 *newpppp.*
+*oracle.*
 *saberfeedback.*
 *stardream.*
 *stc-server.*
